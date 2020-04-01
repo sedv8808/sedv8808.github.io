@@ -1,0 +1,18 @@
+---
+layout: post
+title: Services
+date: 2020-04-01 10:12:24 +0300
+description:  # Add post description (optional)
+img: desktop.jpg  # Add image post (optional)
+fig-caption: Photo by Alesia Kazantceva on Unsplash # Add figcaption (optional)
+tags:
+---
+
+I have worked on several data analysis, data science, and machine learning projects.
+I like to work with business impact and product needs in mind.
+
+Through education enhancement, I am skilled in Python, Pandas, NumPy, scikit-learn, SQL, AWS, Keras, and deploying machine learning models.
+
+I hold a BSc in Actuarial Science and a Master in Data Science, both of which have enabled me to be proficient at statistical thinking and A/B testing techniques.
+
+Services Fee: $60.00 USD / hour
