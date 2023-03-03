@@ -4,13 +4,13 @@ title: "Services"
 
 -   Previous Experience in Data Analysis, Data Science, and Machine Learning projects.
 
+-   Mentored over 1000 students in Python and R.
+
 -   Currently developing the Neotoma2 R Package.
 
 <!-- -->
 
 -   Work with business impact and product needs in mind.
-
--   Graduated from Actuarial Sciences (2014) and hold a Master in Data Science (2019); these degrees enabled me to be proficient at statistical thinking and A/B testing techniques.
 
 -   Services Fee: \$60.00 USD / hour
 

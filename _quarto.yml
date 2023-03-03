@@ -8,12 +8,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - services.qmd
+      - href: about.qmd
+        text: About
+      - href: services.qmd
+        text: Consulting
 
 format:
   html:
-    theme: cosmo
+    theme: superhero
     css: styles.css
     toc: true
 
