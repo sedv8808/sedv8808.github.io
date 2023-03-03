@@ -1,0 +1,13 @@
+---
+title: ""
+format:
+  html:
+    code-fold: true
+jupyter: python3
+---
+
+![**©** Hari-Toto Data](img/logo.JPG){width="400"}
+
+Currently under construction.
+
+© Socorro E. Dominguez Vidana

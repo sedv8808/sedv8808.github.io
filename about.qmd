@@ -1,0 +1,52 @@
+---
+title: "About Me"
+image: img/headshot.jpeg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/sedv8808/
+    - text: Twitter
+      href: https://twitter.com/sedv8808
+    - text: GitHub
+      href: https://github.com/sedv8808
+    - text: Email
+      href: mailto:s.dominguez@ht-data.com
+---
+
+```{r}
+#| label: setup
+#| include: false
+library(fontawesome)
+```
+
+## Hello!
+
+I am Socorro, a life long learner and Data Science educator. I enjoy helping students reach their Eureka moments at different institutions while I also develop software and learn more about Data Science.
+
+If I am not coding, I am most likely practicing Chinese Martial Arts.
+
+----
+
+## Experience
+
+<p>`r fa('laptop')` Data Science Consultant at University of Wisconsin </p>
+
+<p>`r fa('chalkboard-user')` Data Science Educator at UBC - Extended Learning</p>
+
+<p>`r fa('chalkboard-user')` Data Science Educator at Lighthouse Labs </p>
+
+----
+
+## Education
+
+<p> `r fa('graduation-cap')` UBC MDS 2019 </p>
+
+<p> `r fa('graduation-cap')` UNAM Actuarial Science 2014 </p>
+
+
+
+
+© Socorro E. Dominguez Vidana
