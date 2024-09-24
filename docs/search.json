@@ -1,21 +1,14 @@
 [
   {
-    "objectID": "services.html",
-    "href": "services.html",
-    "title": "Services",
-    "section": "",
-    "text": "Previous Experience in Data Analysis, Data Science, and Machine Learning projects.\nMentored over 1000 students in Python and R.\nCurrently developing the Neotoma2 R Package.\n\n\n\nWork with business impact and product needs in mind.\nServices Fee: $60.00 USD / hour\n\n\n© Socorro E. Dominguez Vidana"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "HT-Data.com",
-    "section": "",
-    "text": "© Hari-Toto Data\n\n\nCurrently under construction.\n© Socorro E. Dominguez Vidana"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am Socorro, a life long learner and Data Science educator. I enjoy helping students reach their Eureka moments at different institutions while I also develop software and learn more about Data Science.\nIf I am not coding, I am most likely practicing Chinese Martial Arts."
+  },
+  {
+    "objectID": "about.html#hello",
+    "href": "about.html#hello",
     "title": "About Me",
     "section": "",
     "text": "I am Socorro, a life long learner and Data Science educator. I enjoy helping students reach their Eureka moments at different institutions while I also develop software and learn more about Data Science.\nIf I am not coding, I am most likely practicing Chinese Martial Arts."
@@ -33,5 +26,19 @@
     "title": "About Me",
     "section": "Education",
     "text": "Education\n\n UBC MDS 2019\n\n\n UNAM Actuarial Science 2014\n\n© Socorro E. Dominguez Vidana"
+  },
+  {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Services",
+    "section": "",
+    "text": "Previous Experience in Data Analysis, Data Science, and Machine Learning projects.\nMentored over 1000 students in Python and R.\nCurrently developing the Neotoma2 R Package.\n\n\n\nWork with business impact and product needs in mind.\nServices Fee: For inquiries or to discuss your specific needs, please feel free to reach out!\n\n\n© Socorro E. Dominguez Vidana"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "HT-Data.com",
+    "section": "",
+    "text": "© Hari-Toto Data\n\n\nCurrently under construction.\n© Socorro E. Dominguez Vidana"
   }
 ]
