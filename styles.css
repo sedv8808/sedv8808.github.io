@@ -1,1 +1,32 @@
 /* css styles */
+
+/* Space out the icon lines on the About page */
+.quarto-about-trestles p > .bi {
+  margin-right: 0.4em;
+}
+
+/* Feature cards on the home page */
+.grid h3 {
+  font-size: 1.15rem;
+  margin-top: 1rem;
+}
+
+.grid h3 .bi {
+  margin-right: 0.3em;
+}
+
+/* Keep table rows easy to scan */
+table td {
+  vertical-align: top;
+}
+
+/* Home: keep the photo and name centered, but left-align the body text */
+.quarto-about-jolla main > p,
+.quarto-about-jolla .grid {
+  text-align: left;
+}
+
+/* CV skills table: keep labels on one line */
+.skills td:first-child {
+  white-space: nowrap;
+}

@@ -1,0 +1,52 @@
+---
+title: "About Me"
+image: img/headshot.jpeg
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/sedv8808
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sedv8808/
+    - text: ORCID
+      href: https://orcid.org/0000-0002-7926-4935
+    - icon: envelope
+      text: Email
+      href: mailto:s.dominguez@ht-data.com
+---
+
+## Hello!
+
+I'm Socorro, a data scientist and lifelong learner with more than six years of experience building data tools for science. I care about making research data open, reliable, and easy to reuse, and about helping people reach their Eureka moments when they learn to work with it.
+
+As the database administrator for the [Neotoma Paleoecology Database](https://www.neotomadb.org/), I maintain the production database and public APIs, manage the cloud infrastructure, and automate things like minting DOIs for datasets. I also develop open-source software for the Neotoma community, including the [neotoma2](https://CRAN.R-project.org/package=neotoma2) R package and the [DataBUS](https://doi.org/10.5281/zenodo.21797938) bulk-upload toolkit.
+
+If I'm not coding, I'm most likely practicing Chinese martial arts.
+
+------------------------------------------------------------------------
+
+## Experience
+
+<i class="bi bi-database"></i> Database Administrator and Research Software Developer, Neotoma Paleoecology Database (University of Wisconsin–Madison)
+
+<i class="bi bi-easel"></i> Data Science Educator, UBC Extended Learning
+
+<i class="bi bi-easel"></i> Data Science Educator, Lighthouse Labs
+
+------------------------------------------------------------------------
+
+## Education
+
+<i class="bi bi-mortarboard"></i> Master of Data Science, University of British Columbia, 2019
+
+<i class="bi bi-mortarboard"></i> Licenciatura in Actuarial Science, Universidad Nacional Autónoma de México (UNAM), 2014
+
+------------------------------------------------------------------------
+
+## Skills
+
+R · Python · SQL / PostgreSQL · API development · Docker · Cloud infrastructure · Data validation and quality · FAIR metadata standards · Reproducible pipelines · Teaching and curriculum design

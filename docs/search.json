@@ -1,44 +1,142 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
     "section": "",
-    "text": "I am Socorro, a life long learner and Data Science educator. I enjoy helping students reach their Eureka moments at different institutions while I also develop software and learn more about Data Science.\nIf I am not coding, I am most likely practicing Chinese Martial Arts."
+    "text": "Data scientist and developer with 6+ years building data infrastructure for the Neotoma Paleoecology Database, a global paleoecology software ecosystem. I maintain the database, design API endpoints, and automate pipelines on AWS. I publish open-source packages that let scientists access and contribute data at scale, and I teach Python and machine learning, making complex data concepts approachable for non-technical audiences.\nVancouver area, BC, Canada ·  s.dominguez@ht-data.com"
   },
   {
-    "objectID": "about.html#hello",
-    "href": "about.html#hello",
-    "title": "About Me",
-    "section": "",
-    "text": "I am Socorro, a life long learner and Data Science educator. I enjoy helping students reach their Eureka moments at different institutions while I also develop software and learn more about Data Science.\nIf I am not coding, I am most likely practicing Chinese Martial Arts."
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "About Me",
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "CV",
     "section": "Experience",
-    "text": "Experience\n\n Data Science Consultant at University of Wisconsin\n\n\n Data Science Educator at UBC - Extended Learning\n\n\n Data Science Educator at Lighthouse Labs"
+    "text": "Experience\n\nData Scientist II\nUniversity of Wisconsin–Madison (remote) · Apr 2026 to present\n\nEvolve Neotoma’s PostgreSQL schema to support structurally new data types such as ancient and environmental DNA (aeDNA) and speleothems, keeping the database normalized while broadening what the research community can store.\nBuild GitHub Actions pipelines that automate database-to-AWS workflows, including DOI minting and automated statistical summary reports.\nDevelop data-download pipelines that transform database records into standardized community formats such as FAIRe, improving interoperability and reuse.\nAdd ORCID-based authentication to Neotoma, so researchers can sign in securely with their existing ORCID identities.\nImplement embargoes for sensitive data using row-level security and access controls, in line with data governance and privacy policies.\nWrite technical sections for grant proposals supporting new Neotoma initiatives.\n\n\n\nData Scientist I\nUniversity of Wisconsin–Madison (remote) · May 2020 to Apr 2026\n\nDeveloped and published neotoma2, an open-source R package on CRAN that gives researchers programmatic access to Neotoma (~5,000 downloads in the past year).\nBuilt DataBUS, a Python system that automates bulk ingestion into Neotoma, enabling the upload of 6,087 new datasets from 62 countries in a single year.\nBuilt a Docker image bundling PostgreSQL/PostGIS with Neotoma’s public data snapshot, so geoscientists can run the full database locally without a difficult PostGIS installation.\nExtended Neotoma’s API to expose new data fields researchers needed, then surfaced them in neotoma2, working end to end from the API layer to the user-facing tool.\nLed hands-on workshops in Prague, Rome, Berlin, Cape Town, and Madison, and presented at international conferences including INQUA, AGU, and ESIP. See talks & workshops →\n\n\n\nData Science Course Coordinator, Key Capabilities in Data Science Certificate\nUniversity of British Columbia, Vancouver · Sep 2020 to present\n\nTeach Python programming and machine learning to 1,000+ working professionals, with consistently positive student evaluations.\nBuild and run online course environments in Canvas and Piazza, and keep course materials current.\nMentored three new facilitators in effective teaching practices.\n\n\n\nCoding Instructor\nLighthouse Labs (remote) · Aug 2020 to Aug 2025\n\nDesigned and delivered bootcamp lessons in Python, statistics, data visualization, SQL, and natural language processing.\nProvided live instruction with hands-on, one-on-one support.\n\n\n\nActuarial Analyst\nAXA Insurance, Mexico City · Nov 2010 to Apr 2014\n\nBuilt reserve-calculation models in SQL and shell scripting for health-insurance products, working with sensitive healthcare data under strict privacy controls.\nOptimized the reserve-recalculation pipeline, cutting up to 3.5 hours of compute time per run.\nCleaned and engineered large datasets (5M+ rows) and presented results to executives and head actuaries."
   },
   {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About Me",
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
     "section": "Education",
-    "text": "Education\n\n UBC MDS 2019\n\n\n UNAM Actuarial Science 2014\n\n© Socorro E. Dominguez Vidana"
+    "text": "Education\n Master of Data Science, University of British Columbia, 2019\n B.Sc. (Licenciatura) in Actuarial Science, National Autonomous University of Mexico (UNAM), 2014"
   },
   {
-    "objectID": "services.html",
-    "href": "services.html",
-    "title": "Services",
-    "section": "",
-    "text": "Previous Experience in Data Analysis, Data Science, and Machine Learning projects.\nMentored over 1000 students in Python and R.\nCurrently developing the Neotoma2 R Package.\n\n\n\nWork with business impact and product needs in mind.\nServices Fee: For inquiries or to discuss your specific needs, please feel free to reach out!\n\n\n© Socorro E. Dominguez Vidana"
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "CV",
+    "section": "Publications",
+    "text": "Publications\nDominguez Vidaña, S., & Goring, S. J. (2023). neotoma2: An R package to access data from the Neotoma Paleoecology Database. Journal of Open Source Software, 8(91), 5561. https://doi.org/10.21105/joss.05561"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "CV",
+    "section": "Skills",
+    "text": "Skills\n\n\n\n\n\n\n\n\nProgramming\nPython, R, SQL, Shell/Bash\n\n\nPython\npandas, NumPy, scikit-learn\n\n\nR\ntidyverse, package development (devtools, roxygen2)\n\n\nDatabases\nPostgreSQL, PostGIS, AWS RDS; schema design and normalization\n\n\nCloud & DevOps\nAWS (RDS, IAM), Docker, GitHub Actions, CI/CD, Git\n\n\nData engineering\nETL/ELT pipelines, REST API development, data governance and access control, open-source packaging (CRAN), testing (pytest, uv)"
+  },
+  {
+    "objectID": "cv.html#languages",
+    "href": "cv.html#languages",
+    "title": "CV",
+    "section": "Languages",
+    "text": "Languages\nSpanish (native) · English (professional) · Japanese (JLPT N2) · French (DELF B1) · German (Zertifikat B1)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "HT-Data.com",
+    "title": "Socorro Dominguez Vidaña",
     "section": "",
-    "text": "© Hari-Toto Data\n\n\nCurrently under construction.\n© Socorro E. Dominguez Vidana"
+    "text": "Hi, I’m Socorro! I’m a data scientist based in the Vancouver area with more than six years of experience building data infrastructure for science. I care about making research data open, reliable, and easy to reuse, and about helping people reach their Eureka moments when they learn to work with it.\nMost of my work happens around the Neotoma Paleoecology Database, a free, community-curated resource for fossil and environmental records from the last few million years. I maintain the database, design its API endpoints, and automate pipelines on AWS. I also build the open-source tools that let scientists access and contribute data at scale, and I teach Python and machine learning to working professionals.\n\n\n Data infrastructure\nPostgreSQL schema design, public APIs, cloud pipelines, ORCID sign-in, and automated DOIs for open research data.\n\n\n Open software\nAuthor of the neotoma2 R package and the DataBUS upload toolkit. See all software →\n\n\n Teaching\nPython and machine learning for 1,000+ professionals, plus workshops on four continents. See talks & workshops →\n\n\nIf I’m not coding, I’m most likely practicing Chinese martial arts."
+  },
+  {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Consulting",
+    "section": "",
+    "text": "I help research groups and organizations get more out of their data, from messy spreadsheets to production databases."
+  },
+  {
+    "objectID": "services.html#what-i-can-help-with",
+    "href": "services.html#what-i-can-help-with",
+    "title": "Consulting",
+    "section": "What I can help with",
+    "text": "What I can help with\n\nResearch data infrastructure: PostgreSQL database design and administration, public APIs, cloud hosting, and automated DOIs.\nData pipelines and quality: validation workflows, bulk uploads, and reproducible pipelines that catch problems before they spread.\nOpen research software: R and Python packages, from first prototype to CRAN release and peer review.\nFAIR data: making datasets findable and reusable with metadata standards like FAIRe.\nTraining: hands-on workshops and courses in R, Python, and data science. I’ve mentored over 1,000 students and taught workshops in English and Spanish."
+  },
+  {
+    "objectID": "services.html#selected-work",
+    "href": "services.html#selected-work",
+    "title": "Consulting",
+    "section": "Selected work",
+    "text": "Selected work\n\nDatabase administrator for the Neotoma Paleoecology Database\nLead developer of the neotoma2 R package and the DataBUS upload toolkit\nWorkshops at INQUA, AMQUA, Geotop-UQAM, and more (see the full list)"
+  },
+  {
+    "objectID": "services.html#lets-talk",
+    "href": "services.html#lets-talk",
+    "title": "Consulting",
+    "section": "Let’s talk",
+    "text": "Let’s talk\nEvery project is different, so fees depend on scope. Email me to talk about what you need."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks & Workshops",
+    "section": "",
+    "text": "Since 2021 I’ve given hands-on workshops and talks on open paleoecological data, research software, and reproducible science, in person on four continents and online, in English and Spanish."
+  },
+  {
+    "objectID": "talks.html#workshops",
+    "href": "talks.html#workshops",
+    "title": "Talks & Workshops",
+    "section": "Workshops",
+    "text": "Workshops\n\n\n\nYear\nWorkshop\nWhere\n\n\n\n\n2026\nNeotoma Diatom Workshop\nHybrid (Drexel)\n\n\n2026\nDataBUS workshop, EPD Data Stewardship Workshop\nMontpellier, France\n\n\n2025\nNeotoma workshop, 10th International Conference on Climate Change: The Karst Record\nCape Town, South Africa\n\n\n2025\n“Trabajando con la Base de Datos Paleoecológicos Neotoma,” Latin American Pollen Database webinar series (in Spanish)\nOnline\n\n\n2023\n“Neotoma Paleoecology Database: Catalyzing Open Quaternary Science,” INQUA Congress\nRome, Italy\n\n\n2023\nWorkshop on the Neotoma Paleoecology Database, Geotop-UQAM\nMontréal, Canada\n\n\n2023\nAfrican Pollen Database workshop\nOnline\n\n\n2023\nPacific Northwest workshop\nOnline\n\n\n2023\nLEM-ISS workshop (INQUA)\nHybrid (India)\n\n\n2022\n“Working With Neotoma: From Data Entry to Data Access,” AMQUA\nMadison, USA\n\n\n2022\nNeotoma IAL-IPA workshop\nOnline\n\n\n2022\nR workshop, EPD Open Science Meeting\nPrague, Czechia"
+  },
+  {
+    "objectID": "talks.html#talks",
+    "href": "talks.html#talks",
+    "title": "Talks & Workshops",
+    "section": "Talks",
+    "text": "Talks\n\n2026 · “Neotoma Updates: DataBUS & ORCiD Authentication,” European Pollen Database (EPD) Data Stewardship Workshop, Montpellier, France\n2023 · “Establishing FAIR Data Resources as Key Elements in Data Science Approaches,” International Union for Quaternary Research (INQUA) Congress, Rome, Italy\n2022 · “Interactive Computational Modules for Reproducible Research Training,” American Geophysical Union (AGU) Fall Meeting, Chicago, USA\n2021 · “Machine Learning in the Earth Sciences: A Broad Survey with Use Cases from the Throughput Database,” Geological Society of America (GSA) Connects, Portland, USA\n\nWant me to run a workshop for your group? Get in touch."
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "Open-source tools I’ve built or co-built, mostly for the Neotoma Paleoecology Database community. Everything here is free to use."
+  },
+  {
+    "objectID": "software.html#neotoma2",
+    "href": "software.html#neotoma2",
+    "title": "Software",
+    "section": "neotoma2",
+    "text": "neotoma2\nAn R package for finding, downloading, and analyzing data from the Neotoma Paleoecology Database. It follows a tidyverse-style approach, so Neotoma records drop straight into your usual R workflows.\n\n CRAN (install.packages(\"neotoma2\"))\n Peer reviewed in the Journal of Open Source Software (2023)\n Documentation and tutorials\n Source code"
+  },
+  {
+    "objectID": "software.html#databus",
+    "href": "software.html#databus",
+    "title": "Software",
+    "section": "DataBUS",
+    "text": "DataBUS\nA toolkit that validates and bulk-uploads community datasets into Neotoma. Every file is checked against the Neotoma data model before upload, and uploads run as a single all-or-nothing transaction, so a site is never left half-loaded. I’ve built DataBUS workflows for ostracode and speleothem (SISAL) data, and I’m currently building one for ancient and environmental DNA.\n\n Zenodo archive\n Source code"
+  },
+  {
+    "objectID": "software.html#neotoma2faire-in-development",
+    "href": "software.html#neotoma2faire-in-development",
+    "title": "Software",
+    "section": "neotoma2faire (in development)",
+    "text": "neotoma2faire (in development)\nExports ancient and environmental DNA data from the Neotoma APIs into the FAIRe (FAIR eDNA) metadata standard, so eDNA records can be shared in an open, machine-readable format.\n\n Source code"
+  },
+  {
+    "objectID": "software.html#neotoma-infrastructure",
+    "href": "software.html#neotoma-infrastructure",
+    "title": "Software",
+    "section": "Neotoma infrastructure",
+    "text": "Neotoma infrastructure\n\nDataset landing pages with DOIs for every Neotoma dataset: data.neotomadb.org\nPublic database snapshots and a Docker image, so anyone can run Neotoma locally: Neotoma snapshots"
+  },
+  {
+    "objectID": "software.html#publications",
+    "href": "software.html#publications",
+    "title": "Software",
+    "section": "Publications",
+    "text": "Publications\nDominguez Vidaña, S., & Goring, S. J. (2023). neotoma2: An R package to access data from the Neotoma Paleoecology Database. Journal of Open Source Software, 8(91), 5561. https://doi.org/10.21105/joss.05561"
   }
 ]

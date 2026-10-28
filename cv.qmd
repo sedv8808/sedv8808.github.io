@@ -1,0 +1,75 @@
+---
+title: "CV"
+---
+
+Data scientist and developer with 6+ years building data infrastructure for the [Neotoma Paleoecology Database](https://www.neotomadb.org/), a global paleoecology software ecosystem. I maintain the database, design API endpoints, and automate pipelines on AWS. I publish open-source packages that let scientists access and contribute data at scale, and I teach Python and machine learning, making complex data concepts approachable for non-technical audiences.
+
+<i class="bi bi-geo-alt"></i> Vancouver area, BC, Canada  ·  <i class="bi bi-envelope"></i> [s.dominguez@ht-data.com](mailto:s.dominguez@ht-data.com)
+
+## Experience
+
+### Data Scientist II
+**University of Wisconsin–Madison** (remote) · Apr 2026 to present
+
+-   Evolve Neotoma's PostgreSQL schema to support structurally new data types such as ancient and environmental DNA (aeDNA) and speleothems, keeping the database normalized while broadening what the research community can store.
+-   Build GitHub Actions pipelines that automate database-to-AWS workflows, including DOI minting and automated statistical summary reports.
+-   Develop data-download pipelines that transform database records into standardized community formats such as [FAIRe](https://doi.org/10.1002/edn3.70100), improving interoperability and reuse.
+-   Add ORCID-based authentication to Neotoma, so researchers can sign in securely with their existing ORCID identities.
+-   Implement embargoes for sensitive data using row-level security and access controls, in line with data governance and privacy policies.
+-   Write technical sections for grant proposals supporting new Neotoma initiatives.
+
+### Data Scientist I
+**University of Wisconsin–Madison** (remote) · May 2020 to Apr 2026
+
+-   Developed and published [neotoma2](https://CRAN.R-project.org/package=neotoma2), an open-source R package on CRAN that gives researchers programmatic access to Neotoma (~5,000 downloads in the past year).
+-   Built [DataBUS](https://doi.org/10.5281/zenodo.21797938), a Python system that automates bulk ingestion into Neotoma, enabling the upload of 6,087 new datasets from 62 countries in a single year.
+-   Built a Docker image bundling PostgreSQL/PostGIS with Neotoma's public data snapshot, so geoscientists can run the full database locally without a difficult PostGIS installation.
+-   Extended Neotoma's API to expose new data fields researchers needed, then surfaced them in neotoma2, working end to end from the API layer to the user-facing tool.
+-   Led hands-on workshops in Prague, Rome, Berlin, Cape Town, and Madison, and presented at international conferences including INQUA, AGU, and ESIP. [See talks & workshops →](talks.qmd)
+
+### Data Science Course Coordinator, Key Capabilities in Data Science Certificate
+**University of British Columbia**, Vancouver · Sep 2020 to present
+
+-   Teach Python programming and machine learning to 1,000+ working professionals, with consistently positive student evaluations.
+-   Build and run online course environments in Canvas and Piazza, and keep course materials current.
+-   Mentored three new facilitators in effective teaching practices.
+
+### Coding Instructor
+**Lighthouse Labs** (remote) · Aug 2020 to Aug 2025
+
+-   Designed and delivered bootcamp lessons in Python, statistics, data visualization, SQL, and natural language processing.
+-   Provided live instruction with hands-on, one-on-one support.
+
+### Actuarial Analyst
+**AXA Insurance**, Mexico City · Nov 2010 to Apr 2014
+
+-   Built reserve-calculation models in SQL and shell scripting for health-insurance products, working with sensitive healthcare data under strict privacy controls.
+-   Optimized the reserve-recalculation pipeline, cutting up to 3.5 hours of compute time per run.
+-   Cleaned and engineered large datasets (5M+ rows) and presented results to executives and head actuaries.
+
+## Education
+
+<i class="bi bi-mortarboard"></i> **Master of Data Science**, University of British Columbia, 2019
+
+<i class="bi bi-mortarboard"></i> **B.Sc. (Licenciatura) in Actuarial Science**, National Autonomous University of Mexico (UNAM), 2014
+
+## Publications
+
+Dominguez Vidaña, S., & Goring, S. J. (2023). neotoma2: An R package to access data from the Neotoma Paleoecology Database. *Journal of Open Source Software*, 8(91), 5561. <https://doi.org/10.21105/joss.05561>
+
+## Skills
+
+::: {.skills}
+| | |
+|--------|-------------------------|
+| **Programming** | Python, R, SQL, Shell/Bash |
+| **Python** | pandas, NumPy, scikit-learn |
+| **R** | tidyverse, package development (devtools, roxygen2) |
+| **Databases** | PostgreSQL, PostGIS, AWS RDS; schema design and normalization |
+| **Cloud & DevOps** | AWS (RDS, IAM), Docker, GitHub Actions, CI/CD, Git |
+| **Data engineering** | ETL/ELT pipelines, REST API development, data governance and access control, open-source packaging (CRAN), testing (pytest, uv) |
+:::
+
+## Languages
+
+Spanish (native) · English (professional) · Japanese (JLPT N2) · French (DELF B1) · German (Zertifikat B1)

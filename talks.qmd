@@ -1,0 +1,34 @@
+---
+title: "Talks & Workshops"
+format:
+  html:
+    link-external-newwindow: true
+---
+
+Since 2021 I've given hands-on workshops and talks on open paleoecological data, research software, and reproducible science, in person on four continents and online, in English and Spanish.
+
+## Workshops
+
+| Year | Workshop | Where |
+|-------------------|-------------------------------|----------------------|
+| 2026 | Neotoma Diatom Workshop | Hybrid (Drexel) |
+| 2026 | DataBUS workshop, EPD Data Stewardship Workshop | Montpellier, France |
+| 2025 | Neotoma workshop, [10th International Conference on Climate Change: The Karst Record](https://wcrp-academy.org/catalogues/10th-international-climate-change-the-karst-record/) | Cape Town, South Africa |
+| 2025 | "Trabajando con la Base de Datos Paleoecológicos Neotoma," [Latin American Pollen Database webinar series](https://www.neotomadb.org/outreach/lapd-ciclo-de-charlas-2025) (in Spanish) | Online |
+| 2023 | "[Neotoma Paleoecology Database: Catalyzing Open Quaternary Science](https://www.neotomadb.org/news-events/inqua-2023-neotoma-events-meetup)," INQUA Congress | Rome, Italy |
+| 2023 | [Workshop on the Neotoma Paleoecology Database](https://www.geotop.ca/fr/node/2368), Geotop-UQAM | Montréal, Canada |
+| 2023 | African Pollen Database workshop | Online |
+| 2023 | Pacific Northwest workshop | Online |
+| 2023 | LEM-ISS workshop (INQUA) | Hybrid (India) |
+| 2022 | "[Working With Neotoma: From Data Entry to Data Access](https://sites.google.com/wisc.edu/amqua2022-madison/workshops-and-field-trips)," AMQUA | Madison, USA |
+| 2022 | Neotoma IAL-IPA workshop | Online |
+| 2022 | R workshop, [EPD Open Science Meeting](https://epdweblog.org/2022/02/25/epd-open-science-meeting-and-workshops-prague-1st-3rd-june/) | Prague, Czechia |
+
+## Talks
+
+-   **2026** · "Neotoma Updates: DataBUS & ORCiD Authentication," European Pollen Database (EPD) Data Stewardship Workshop, Montpellier, France
+-   **2023** · "Establishing FAIR Data Resources as Key Elements in Data Science Approaches," International Union for Quaternary Research (INQUA) Congress, Rome, Italy
+-   **2022** · "Interactive Computational Modules for Reproducible Research Training," American Geophysical Union (AGU) Fall Meeting, Chicago, USA
+-   **2021** · "[Machine Learning in the Earth Sciences: A Broad Survey with Use Cases from the Throughput Database](https://studio.m-anage.com/gsa/Paper/370665)," Geological Society of America (GSA) Connects, Portland, USA
+
+Want me to run a workshop for your group? [Get in touch](mailto:s.dominguez@ht-data.com).

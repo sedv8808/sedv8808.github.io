@@ -1,0 +1,36 @@
+---
+title: "Software"
+---
+
+Open-source tools I've built or co-built, mostly for the [Neotoma Paleoecology Database](https://www.neotomadb.org/) community. Everything here is free to use.
+
+## neotoma2
+
+An R package for finding, downloading, and analyzing data from the Neotoma Paleoecology Database. It follows a tidyverse-style approach, so Neotoma records drop straight into your usual R workflows.
+
+-   <i class="bi bi-box-seam"></i> [CRAN](https://CRAN.R-project.org/package=neotoma2) (`install.packages("neotoma2")`)
+-   <i class="bi bi-journal-text"></i> Peer reviewed in the [Journal of Open Source Software (2023)](https://doi.org/10.21105/joss.05561)
+-   <i class="bi bi-book"></i> [Documentation and tutorials](https://open.neotomadb.org/neotoma2/)
+-   <i class="bi bi-github"></i> [Source code](https://github.com/NeotomaDB/neotoma2)
+
+## DataBUS
+
+A toolkit that validates and bulk-uploads community datasets into Neotoma. Every file is checked against the Neotoma data model before upload, and uploads run as a single all-or-nothing transaction, so a site is never left half-loaded. I've built DataBUS workflows for ostracode and speleothem (SISAL) data, and I'm currently building one for ancient and environmental DNA.
+
+-   <i class="bi bi-archive"></i> [Zenodo archive](https://doi.org/10.5281/zenodo.21797938)
+-   <i class="bi bi-github"></i> [Source code](https://github.com/NeotomaDB/DataBUS)
+
+## neotoma2faire *(in development)*
+
+Exports ancient and environmental DNA data from the Neotoma APIs into the [FAIRe](https://doi.org/10.1002/edn3.70100) (FAIR eDNA) metadata standard, so eDNA records can be shared in an open, machine-readable format.
+
+-   <i class="bi bi-github"></i> [Source code](https://github.com/NeotomaDB/neotoma2faire)
+
+## Neotoma infrastructure
+
+-   **Dataset landing pages** with DOIs for every Neotoma dataset: [data.neotomadb.org](https://data.neotomadb.org/)
+-   **Public database snapshots** and a Docker image, so anyone can run Neotoma locally: [Neotoma snapshots](https://www.neotomadb.org/data/db-snapshots)
+
+## Publications
+
+Dominguez Vidaña, S., & Goring, S. J. (2023). neotoma2: An R package to access data from the Neotoma Paleoecology Database. *Journal of Open Source Software*, 8(91), 5561. <https://doi.org/10.21105/joss.05561>

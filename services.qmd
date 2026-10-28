@@ -1,18 +1,23 @@
 ---
-title: "Services"
+title: "Consulting"
 ---
 
--   Previous Experience in Data Analysis, Data Science, and Machine Learning projects.
+I help research groups and organizations get more out of their data, from messy spreadsheets to production databases.
 
--   Mentored over 1000 students in Python and R.
+## What I can help with
 
--   Currently developing the Neotoma2 R Package.
+-   **Research data infrastructure:** PostgreSQL database design and administration, public APIs, cloud hosting, and automated DOIs.
+-   **Data pipelines and quality:** validation workflows, bulk uploads, and reproducible pipelines that catch problems before they spread.
+-   **Open research software:** R and Python packages, from first prototype to CRAN release and peer review.
+-   **FAIR data:** making datasets findable and reusable with metadata standards like FAIRe.
+-   **Training:** hands-on workshops and courses in R, Python, and data science. I've mentored over 1,000 students and taught workshops in English and Spanish.
 
-<!-- -->
+## Selected work
 
--   Work with business impact and product needs in mind.
+-   Database administrator for the [Neotoma Paleoecology Database](https://www.neotomadb.org/)
+-   Lead developer of the [neotoma2](https://CRAN.R-project.org/package=neotoma2) R package and the [DataBUS](https://doi.org/10.5281/zenodo.21797938) upload toolkit
+-   Workshops at INQUA, AMQUA, Geotop-UQAM, and more ([see the full list](talks.qmd))
 
--   Services Fee: For inquiries or to discuss your specific needs, please feel free to reach out!
+## Let's talk
 
-\
-© Socorro E. Dominguez Vidana
+Every project is different, so fees depend on scope. [Email me](mailto:s.dominguez@ht-data.com) to talk about what you need.

@@ -4,20 +4,38 @@ project:
 
 website:
   title: "HT-Data.com"
+  site-url: "https://sedv8808.github.io"
+  description: "Socorro Dominguez Vidaña: data scientist, research software developer, and educator."
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
+      - href: cv.qmd
+        text: CV
+      - href: software.qmd
+        text: Software
+      - href: talks.qmd
+        text: Talks & Workshops
       - href: services.qmd
         text: Consulting
+    right:
+      - icon: github
+        href: https://github.com/sedv8808
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/sedv8808/
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:s.dominguez@ht-data.com
+        aria-label: Email
+  favicon: img/logo.JPG
+  page-footer:
+    center: "© Socorro E. Dominguez Vidaña"
 
 format:
   html:
-    theme: superhero
+    theme: [superhero, custom.scss]
     css: styles.css
     toc: true
 
 editor: visual
-

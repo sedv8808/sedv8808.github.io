@@ -1,13 +1,52 @@
 ---
-title: ""
-format:
-  html:
-    code-fold: true
-jupyter: python3
+title: "Socorro Dominguez Vidaña"
+subtitle: "Data scientist · Research software developer · Educator"
+image: img/headshot.jpeg
+toc: false
+aliases:
+  - about.html
+about:
+  template: jolla
+  image-shape: rounded
+  image-width: 13em
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/sedv8808
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sedv8808/
+    - text: ORCID
+      href: https://orcid.org/0000-0002-7926-4935
+    - icon: file-earmark-person
+      text: CV
+      href: cv.qmd
+    - icon: envelope
+      text: Email
+      href: mailto:s.dominguez@ht-data.com
 ---
 
-![**©** Hari-Toto Data](img/logo.JPG){width="400"}
+Hi, I'm Socorro! I'm a data scientist based in the Vancouver area with more than six years of experience building data infrastructure for science. I care about making research data open, reliable, and easy to reuse, and about helping people reach their Eureka moments when they learn to work with it.
 
-Currently under construction.
+Most of my work happens around the [Neotoma Paleoecology Database](https://www.neotomadb.org/), a free, community-curated resource for fossil and environmental records from the last few million years. I maintain the database, design its API endpoints, and automate pipelines on AWS. I also build the open-source tools that let scientists access and contribute data at scale, and I teach Python and machine learning to working professionals.
 
-© Socorro E. Dominguez Vidana
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+### <i class="bi bi-database"></i> Data infrastructure
+PostgreSQL schema design, public APIs, cloud pipelines, ORCID sign-in, and automated DOIs for open research data.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### <i class="bi bi-code-slash"></i> Open software
+Author of the [neotoma2](https://CRAN.R-project.org/package=neotoma2) R package and the [DataBUS](https://doi.org/10.5281/zenodo.21797938) upload toolkit. [See all software →](software.qmd)
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### <i class="bi bi-people"></i> Teaching
+Python and machine learning for 1,000+ professionals, plus workshops on four continents. [See talks & workshops →](talks.qmd)
+:::
+
+:::
+
+If I'm not coding, I'm most likely practicing Chinese martial arts.
